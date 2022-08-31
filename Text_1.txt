@@ -1,9 +1,14 @@
 Hej jeg hedder Helena
 
+Nej nej den klarer vi
 
-
+<<<<<<< HEAD
 Det her er sjovt
 Tror jeg nok
+=======
+Jeg er træt nu
+og jeg keder mig en smule
+>>>>>>> 8ecb35093d478cccdb0bba521072874309bce6b3
 
 
 
